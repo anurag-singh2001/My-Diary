@@ -42,3 +42,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## About My Diary App
 
  In this app, people can store their notes and can perform operation like add delete and update This project also have signup and login function so that people can create their account and store there notes safely and I have used JWT authentication as it is a secure way to authenticate users and share information
+ 
+ 
+ ## Screenshot of app
+ 
+ <img width="960" alt="diary-2" src="https://user-images.githubusercontent.com/72223953/136648493-c1315b23-fdc6-4bc0-b80f-b51ede73e71b.PNG">
+<img width="960" alt="diary-1" src="https://user-images.githubusercontent.com/72223953/136648503-894b23e8-42bb-454c-9859-34a3db9bba45.PNG">
+<img width="960" alt="diary-3" src="https://user-images.githubusercontent.com/72223953/136648512-72daf0d4-3528-4fd7-8a48-515a1f95acce.PNG">
